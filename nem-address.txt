@@ -1,0 +1,24 @@
+TBUBJGNYPKH75FINV6NBCQUVNKIARXRTJDXYSPC3
+
+1234567890qwertyuiop
+
+SimpleWallet {
+  name: 'demodedcoin-wallet',
+  network: 152,
+  address:
+   Address {
+     value: 'TD4ZAJXNHNLWKAB2FDDMK7JR7HMJQ7AW2EUTXPQ6',
+     networkType: 152 },
+  creationDate:
+   LocalDateTime {
+     _date: LocalDate { _year: 2019, _month: 2, _day: 21 },
+     _time: LocalTime { _hour: 21, _minute: 22, _second: 49, _nano: 355000000 } },
+  schema: 1,
+  encryptedPrivateKey:
+   EncryptedPrivateKey {
+     encryptedKey: '2c1dfa9584e408f6f3b603826eb2a06eced39c0ab45e2619527fb3160d8123550fd15cedc2b97c2d00ecb0be75754808',
+     iv: '5b887fc698a677664a894f8ab87be8fd' } }
+
+TDKB32-MLXPKH-5XP4ZI-AL3CQH-KLPVTH-XVYFAA-AFNF
+TDKB32MLXPKH5XP4ZIAL3CQHKLPVTHXVYFAAAFNF
+

@@ -1,0 +1,24 @@
+1	create new file server.js
+2	npm init
+3	npm install --save express
+4	type in server.js
+		var express = require('express');
+		var app = express();
+
+		app.get('/', function(req, res) {
+		    res.send('Test API response');
+		});
+
+		app.get('/fun', function(req, res) {
+		    res.send('foo function');
+		});
+
+		app.listen(3000, function() {
+		    console.log('First API running on port 3000');
+		});
+5	node server.js
+6	open localhost:3000 in webbrowser
+
+for automatic server restart in case of changes in server.js
+7	npm install -g nodemon
+8	nodemon server.js

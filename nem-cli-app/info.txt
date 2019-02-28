@@ -1,0 +1,17 @@
+SimpleWallet {
+  name: 'Andy test wallet',
+  network: 152,
+  address:
+   Address {
+     value: 'TDZFSZC7WOR7R6OB7NSEBLHY2K2MJMZXBFKELSD2',
+     networkType: 152 },
+  creationDate:
+   LocalDateTime {
+     _date: LocalDate { _year: 2019, _month: 2, _day: 20 },
+     _time: LocalTime { _hour: 20, _minute: 35, _second: 20, _nano: 233000000 } },
+  schema: 1,
+  encryptedPrivateKey:
+   EncryptedPrivateKey {
+     encryptedKey: '666e3325b41d9fe94924d6e0d6634cdcc41512c17ff866a8cce44be21a3a6ab3c20509983a8ac60f83430f8950653a4c',
+     iv: '7a2479fa16b08a511a664f3d62317d30' } }
+
